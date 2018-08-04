@@ -23,7 +23,7 @@ if (isset($_SERVER['SERVER_SOFTWARE'])
 }
 
 // Cache settings
-define('WP_CACHE', $onGae);
+define('WP_CACHE', true);
 $batcache = [
     'seconds' => 0,
     'max_age' => 30 * 60, // 30 minutes
@@ -51,17 +51,17 @@ define('WP_HOME', $protocol_to_use . HTTP_HOST);
 // ** MySQL settings - You can get this info from your web host ** //
 if ($onGae) {
     /** The name of the Cloud SQL database for WordPress */
-    define('DB_NAME', 'wp');
+    define('DB_NAME', 'wordpress');
     /** Production login info */
-    define('DB_HOST', ':/cloudsql/utd-bis-exams:us-central1:wp');
-    define('DB_USER', 'wp');
+    define('DB_HOST', ':/cloudsql/utd-bis-exams:us-central1:wordpress');
+    define('DB_USER', 'root');
     define('DB_PASSWORD', 'todosabordo');
 } else {
     /** The name of the local database for WordPress */
-    define('DB_NAME', 'wp');
+    define('DB_NAME', 'wordpress');
     /** Local environment MySQL login info */
-    define('DB_HOST', '127.0.0.1');
-    define('DB_USER', 'wp');
+    define('DB_HOST', ':/cloudsql/utd-bis-exams:us-central1:wordpress');
+    define('DB_USER', 'root');
     define('DB_PASSWORD', 'todosabordo');
 }
 
