@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "utd-bis-exams",
+  "private_key_id": "dc5f89c2ae766f50a36962af598583e1e8364f25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDVZqSXmBeTiBGu\nPc3nvqi1AFy06Jbpx497WL547CprB/gIIhBc8PWpGQY0EOSXOl3vcNxy1/JNEr5J\nUVUyZp0z4/SclxJE4HfMRDFsRPlrYNKOi5++W+5Lp7F+kRhasZiBfT31L4markSR\ncqi6PSU0bd0pEqTS5w0ijUlnIbuLoJOWGw+TnVSmfYaESDTUKMW5rhpw1SIJJWOJ\n03Nn+3BihMWyoGKMvQDmSNuP3C8gj/AFmPn4Mx+8xjVk01H7UXdIDbPAC57MiGcE\nEOkznCWh99hWwDelnUaAzaETHdm1TXbs2bG+HAG8MP3isWnp+QwRL9hNoyr20lYx\ndvIgnbiXAgMBAAECggEARWNGImqYQ+bLBPJgqLlURuJSwpocM/CpBUziRhRYaIvj\nSNW2p1nMLwsNetGBWnDmiUwTyh3QUeJF0DYrcyNteylkaKQwkwe/vEHyJge5aAJI\nBIR+0Rk4Pw5MRuCr4BV+BqCwDDDEV/DRJ8/17/Sgy87rSgcfY9ov6auyEeAkiK36\nMjvyp43IgEsuKzrqqZLbLf0f8vFbVS6eQVff3cVLJkW3pYckKCOJ68Mmu5RLBOL/\noXfxfdC2MmWSMRZ+JOvBg40uQn+nbdIM596Kc0vuW/s1fX+tr2d9qvSnxy7hj+ls\nU3TYNygi/tCueErUX5T2+5ieLYAl0feluUOWY8NQOQKBgQDv4EbygkbVLI5yuoZp\n75NGnyxAntRc+i3wFlrlbmveT0rZR0R2Ih+rttU4pYnqu5zcc+meF+hlcURgeHmd\nhXQgWgu7gCW7zB5mx5j7oLXu5v0V/tDoZNsnoBArL3MqxliqT8T3pfBvC6u1cTj0\nS0QiaGGuBtEQNq5IS8fdZpu3GQKBgQDjvsnyDbwPCrGFXr2MDovv0LkgF46aWCKL\nO2osCJ+s8TxjIg/N4xIgY4XkDinALzmsUGpJx+Pkht5GITs0wLWcqfej9I0EsAO1\nvfAQfJ2lFKo3K+jbLaSPi+EgI7PN+PtLsWlgn9uJqwQweITRu+IbQARdzQAvIs0r\nwfPHIjpTLwKBgQCukksvzE3ecEnPBx4xVJCbMdYTxUOJ0uzBsJNAK8dHB+/SBwK0\n8oqX/jxYuGiRsy4qZhUb4AxaXz9C8gqX7/qeXMnzEATmElwBsrsMTV56WhLQAh1p\nM5Um1l9N/n9THvyCHgGbtWEwf47cQmUPrQMOA2crLnzRzumxZa0z3KvwaQKBgQC3\n+S5PT5MEH6JJ17+MvU+DuXtilkUHH31ANg3NZmX+oZ0jg6d6rRy+d0b4dAx8CGox\nbYB++2938w7pXfzi322WEaNPmcS07a8BiF6+IryCV1AtY1YmgBd4Mgn5GX4tPB1c\nBwPWHyyMaE7pDOJWPs0nMC6Wy3yDlzxgRbw0t8yf1wKBgQC7RjKbIifnYq1Hr/pX\nAEOj42uF+ktDbHyICzcElG3PT7kHM2NNa46BLMl4hSjL1Lm3vF6i8EVQ/edRBadC\nMtft4lQgOLZkdz33T1wbPuZz+bxewgjF5dzSpZmB8JQhy4YTYCRu3bRjPg9mQAxO\nL0fACI/78jxZgsfN8Kc/tPM+Tg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wp-sql-service@utd-bis-exams.iam.gserviceaccount.com",
+  "client_id": "101852817401748210973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wp-sql-service%40utd-bis-exams.iam.gserviceaccount.com"
+}

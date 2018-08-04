@@ -80,14 +80,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '0Aj3+fV3Rbc/Bj71yZ0ERQ6On7qIC43IHQH0nN7iKD2yZcl6I/w2niJ5RmbGH7sF82o4tvuIy5GkXU7K');
-define('SECURE_AUTH_KEY',  'PnjfVfAjz9K+mHBCBYqJEtQLeaCU3V65vG4P9HR61aWd8sRt3ZPV0W2o60WKwJZvkVrB6ld/Hd+nsHU5');
-define('LOGGED_IN_KEY',    '6M57W8/4A9sMB5BA5Lln1nmrIzNHjtnyQUylynwRF+RGkaOC98HuhiLqno09s8eAeSH0IRr1h8hxvQBG');
-define('NONCE_KEY',        'ILWX4UPL3hhAIZKX/pk0F3UFyVdiTAsIAwdlHKsAnQviq5Wr51y1QM2BiFfNtyY6rIeKLudZGXK9w98e');
-define('AUTH_SALT',        'lHC18dSAgMjPc1U1w5SWSyMuaQIjl3XiKRsu36UFM6U+4fIxp5v+FCNlpLvtsljrI+DvqaicFUUiSCRU');
-define('SECURE_AUTH_SALT', 'yLd29t77X9dyJ7rhHTyycIfbWq4229wQauu7/vmUz9a7iYIb5izZhnZTt/JVElvZLSfJMbP526ODmIwL');
-define('LOGGED_IN_SALT',   '2RwMnEncoUAks6CLz88kizFxZxk2Eazpu3ucc3uT06SU0L6ZL6MVcCtYa/5MBVaTQOH00d2ohB3bchvJ');
-define('NONCE_SALT',       '5Ip6fCLRbDKSGQomSXBW4WIgVUEjy47Q6LgvJUYH+HXdeb4OF7WigQbt222zo4aZfRXaGTU3y0EwmV9Y');
+define('AUTH_KEY',         'lEZRWb5ZiVsgJST4YqhKXA7jrbMBKpK5PVH/goos69EAu06rNnx302n7x3QHWMhr98h0RdKydB/aOwvi');
+define('SECURE_AUTH_KEY',  'Wt+XmJxoNaCPdqSv+imd7uU0JGpaatI0s15u1OzI2ajw+Z2uqYEy9rN4lyLmlpfRpZwoOXPnTYsbCLFI');
+define('LOGGED_IN_KEY',    'YUSVchLPp14iZ5//4Yu9e3ZutLswDvtQbHUiAlrveXYC3DGmgwW94WPmPn7UBQ1nEIjMXF+DoGxnxyVL');
+define('NONCE_KEY',        'yzq+zCHSI+9XUsnw7eB97zdfr5CxUOwT5VPYEvxcGl9PucFXznipbyu/wCmFD3QCsbZDrbjdRo5XO/iw');
+define('AUTH_SALT',        '1GFym/jfmK/QHQdVaAs+EVAYot4KhZS4RSwesxwAMa6v7dKSeODzY7o2IttJPfBDAmaNAl0aW0r+vLxF');
+define('SECURE_AUTH_SALT', 'CZ0J2NJa3BFyjKF3bQM7frhJ10bdg0NKehKjHM+F3O894MemJdRvmjS1uvsotNVgzpE1ZhQzQd8PC2aN');
+define('LOGGED_IN_SALT',   'folafVMivY08EobQoaZp6GBZaJN2OPeUqDqT/5aEqnQwTTtIyjI4O2mdNPaJT6U4LKYPUnxpHN1WI5BG');
+define('NONCE_SALT',       'ZJxfa/vq11wTWFqOjb9HJIFz6v6vwmPYYFzX0JUVgwGxvSGiJ5O23ezOxRc1VE2iobedXnzeGwCQTaWF');
 
 /**#@-*/
 /**
